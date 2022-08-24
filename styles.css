@@ -1,0 +1,24 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color:antiquewhite;
+}
+
+ul.center-list-container {
+    padding-left: 0;
+}
+
+ul img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+h1,
+.center-img-container,
+.center-list-container {
+    text-align: center;
+}
