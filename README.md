@@ -6,4 +6,4 @@ Project made to practice HTML & CSS fundamentals from https://www.theodinproject
 
 ## Live demo
 
-[https://mateusgomes01.github.io/odin-recipes/](https://mateusgomes01.github.io/odin-recipes/)
+[https://mateusmeloxyz.github.io/odin-recipes/](https://mateusmeloxyz.github.io/odin-recipes/)
